@@ -1,8 +1,10 @@
 making_LLM_from_scratch/model_and_optimizer.pth
 FineTuning/lora_spam_classifier.pth
 FineTuning/review_classifier.pth
-FineTuning
 Instruction_Fine_Tuning
+FineTuning/checkpoints
+FineTuning/distillbert-model-fined-tuned
+FineTuning/distillbert-output
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
