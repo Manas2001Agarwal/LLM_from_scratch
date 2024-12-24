@@ -12,4 +12,5 @@ For this exercise I loaded the publically available weights of GPT-2 small(124M)
 Futher utilized advanced **PEFT based LORA technique** to fine-tune the GPT-2 small(124M) model to acheive an accuracy of 97.5% on test dataset. As a last experiment I utilized the **Distill-Bert pretrained model from HuggingFace** and fine-tuned it on SMS Spam Classification to acheive an accuracy of 98.5% on test data. 
 
 Once again we see encoder based Bert Model having won the race for representational tasks like Text-Classification.  
-Code for Classification Fine Tuning can be found in FineTing folder of this repo
+
+**Code for Classification Fine Tuning can be found in FineTuning folder of this repo.**
