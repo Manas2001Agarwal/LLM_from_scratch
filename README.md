@@ -15,9 +15,8 @@ Once again we see encoder based Bert Model having won the race for representatio
 
 **Code for Classification Fine Tuning can be found in FineTuning folder of this repo.**
 
-GPT-Small Finetuned Training Loss vs Epochs
 ![gpt-small-fintuned](https://github.com/user-attachments/assets/cb80278e-fb74-4e28-954b-dfd579e7fe63)
+GPT-Small Finetuned Training Loss vs Epochs
 
-GPT-Small Finetuned with LORA technique - Training Loss vs Epochs
 ![lora-finedtuned-gpt-small](https://github.com/user-attachments/assets/c78eb075-d13e-4864-ab6d-3ecd1592dce2)
-
+GPT-Small Finetuned with LORA technique - Training Loss vs Epochs
